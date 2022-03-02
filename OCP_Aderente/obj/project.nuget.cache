@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TGyW00NP8aK3/6Bva7eOjp7e3fTKs9jXdyBN49iwbaf3bC6yQ6XzYWCvvIeXL5KUDHWWZsc4/KNXLgsNyrR4gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinicius\\Downloads\\PrincipioSolid_OCP\\OCP_Aderente\\OCP_Aderente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

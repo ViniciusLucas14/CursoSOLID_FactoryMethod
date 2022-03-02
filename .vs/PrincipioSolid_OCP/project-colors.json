@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0eca64da-a969-411a-9144-026e5d30719e": {
+      "ProjectGuid": "0eca64da-a969-411a-9144-026e5d30719e",
+      "DisplayName": "OCP_Violacao",
+      "ColorIndex": 0
+    },
+    "a65b220c-0cd7-4a31-a060-86dd48694c52": {
+      "ProjectGuid": "a65b220c-0cd7-4a31-a060-86dd48694c52",
+      "DisplayName": "OCP_Aderente",
+      "ColorIndex": 1
+    },
+    "73e0cb68-bad3-4edc-bc98-1cffe639f0f6": {
+      "ProjectGuid": "73e0cb68-bad3-4edc-bc98-1cffe639f0f6",
+      "DisplayName": "OCP_FactoryMethod-Vinicius",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

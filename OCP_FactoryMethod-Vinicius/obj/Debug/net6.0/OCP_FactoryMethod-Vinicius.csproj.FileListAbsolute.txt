@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\bin\Debug\net6.0\OCP_FactoryMethod-Vinicius.exe
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\bin\Debug\net6.0\OCP_FactoryMethod-Vinicius.deps.json
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\bin\Debug\net6.0\OCP_FactoryMethod-Vinicius.runtimeconfig.json
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\bin\Debug\net6.0\OCP_FactoryMethod-Vinicius.dll
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\bin\Debug\net6.0\ref\OCP_FactoryMethod-Vinicius.dll
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\bin\Debug\net6.0\OCP_FactoryMethod-Vinicius.pdb
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\obj\Debug\net6.0\OCP_FactoryMethod-Vinicius.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\obj\Debug\net6.0\OCP_FactoryMethod-Vinicius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\obj\Debug\net6.0\OCP_FactoryMethod-Vinicius.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\obj\Debug\net6.0\OCP_FactoryMethod-Vinicius.AssemblyInfo.cs
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\obj\Debug\net6.0\OCP_FactoryMethod-Vinicius.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\obj\Debug\net6.0\OCP_FactoryMethod-Vinicius.dll
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\obj\Debug\net6.0\ref\OCP_FactoryMethod-Vinicius.dll
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\obj\Debug\net6.0\OCP_FactoryMethod-Vinicius.pdb
+C:\Users\Vinicius\Downloads\PrincipioSolid_OCP\OCP_FactoryMethod-Vinicius\obj\Debug\net6.0\OCP_FactoryMethod-Vinicius.genruntimeconfig.cache
